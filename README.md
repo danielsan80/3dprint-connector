@@ -27,11 +27,11 @@ connector();
 
 You can customize the connector. The parameters are:
 
-- void: make a cavity to host the connector (true) or the connector itself (false)
-- r: the radius of the 2 cylinders
-- dinstance: the distance between the 3 cylinders
-- width: te width of the bar who connect the 2 cylinders
-- height: the height of the connector
-- play: the play used in the void version
+- **void**: make a cavity to host the connector (true) or the connector itself (false)
+- **r**: the radius of the 2 cylinders
+- **dinstance**: the distance between the 3 cylinders
+- **width**: te width of the bar who connect the 2 cylinders
+- **height**: the height of the connector
+- **play**: the play used in the void version
 
 That's all.
