@@ -1,5 +1,5 @@
 # 3dprint-connector
-Just è "puzzle" connector to make modular models.
+Just a "puzzle" connector to make modular models.
 
 `example.scad` contains an example to understand how it works.
 
